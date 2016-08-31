@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull Requests for changes.
 ## Test
 DO TESTS!!!
 
-2016 Git.projects
+2016 Git.projects. All rights reserved.
