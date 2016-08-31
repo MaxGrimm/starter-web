@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Max Grimm	max.grimm24@gmail.com
 
 # THANKS
 
